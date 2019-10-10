@@ -1,3 +1,7 @@
 ten thanh vien 1
 ten thanh vien 2
+<<<<<<< HEAD
 ten thanh vien 3
+=======
+ten thanh vien 4
+>>>>>>> nhanh2
